@@ -7,7 +7,10 @@ Sou Ludmila, tenho quatro gatinhos e amo aprender coisas novas. Estou sempre faz
  - :tada: curiosidades: amo plantas ~~e acabo matando todas.~~
 
 
-!(https://capricho.abril.com.br/wp-content/uploads/2019/12/giphy-gato-computador-pesquisa.gif)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+
+
  
 
 
