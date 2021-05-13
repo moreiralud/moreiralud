@@ -7,7 +7,7 @@ Sou Ludmila, tenho quatro gatinhos e amo aprender coisas novas. Estou sempre faz
  - :tada: curiosidades: amo plantas ~~e acabo matando todas.~~
 
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Obrigada](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
 
