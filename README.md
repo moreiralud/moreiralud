@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm passionate about developing efficient and crea
 
 
 📊 GitHub Stats:
-<!-- Wakatime stats -->
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=moreiralud)](https://wakatime.com/@moreiralud)
+<p align="center"> <!-- GitHub Stats --> <img src="https://github-readme-stats.vercel.app/api?username=moreiralud&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="GitHub Stats" height="180px"/> <!-- WakaTime Stats --> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=moreiralud&theme=dark&hide_border=false" alt="WakaTime Stats" height="180px"/> </p>
+
 
 🏆 GitHub Trophies:
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=moreiralud&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" /> </p>
